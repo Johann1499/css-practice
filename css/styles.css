@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+    background-color: #999999;
+    padding: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+h1{
+    text-transform: uppercase;
+    align-items: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+div{    
+    padding: 20px;
+    background-color:#bcbcbc;
+}
+.johann {
+    align-items: center;
+    width: 140px;
+    border-radius: 1000%;
+}
+
+.fblogo{
+    width: 15px;
+}   
+.x{
+    padding: 10px;
+    transition: 0.8s;
+}
+a{
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.x:hover{
+    background-color: #0b5394;
+    border-radius: 50px;
+    margin-right: 170px;
+    margin-left: 170px;
+}
+a:hover{
+    
+    color:#cfe2f3;
+}
